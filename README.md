@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛰️ OrbitalGuard AI
 
 AI-powered space-debris tracking and collision-risk analysis platform.
@@ -38,3 +39,7 @@ This project is intended for educational and research purposes. Its risk indicat
 ## 👩‍💻 Author
 
 Harvansh Kaur Kapoor
+=======
+# OrbitalGuard-AI
+AI-powered space-debris tracking and collision-risk analysis platform.
+>>>>>>> a1b92bb77ee6b49d149648c348acb82b4f426bab
